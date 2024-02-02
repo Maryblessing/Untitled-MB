@@ -1,4 +1,4 @@
-# Untitled-MB
+
 ## Hello and welcome to Untitled MB
 ***************************************
 This is a spot for raw, genuine and professional content on community building, open source, events, hobbies and life in general.
